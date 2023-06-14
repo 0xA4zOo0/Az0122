@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm A Z O</h1>
-<h2 align="center">Hello World</h2>
-
 
 - 🌱 I’m currently learning **Cyber Security**
 
