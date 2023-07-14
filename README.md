@@ -6,8 +6,8 @@
 <div align="left" style="display: flex;">
 
 
-<a href="https://elearnsecurity.com/" target="blank"><img src="https://cdn.discordapp.com/attachments/1117078532531683408/1118363356567453776/ejpt.png" alt="eJPT" height="40" width="50" /></a>
-<a href="https://elearnsecurity.com/product/ewpt-certification/" target="blank"><img src="https://cdn.discordapp.com/attachments/1117078532531683408/1118362412974878791/th-2861658510.png" alt="eWPT" height="40" width="50" /></a>
+<a href="https://elearnsecurity.com/" target="blank"><img src="https://i.ibb.co/41cDxFj/ejpt.png" alt="eJPT" height="40" width="50" /></a>
+<a href="https://elearnsecurity.com/product/ewpt-certification/" target="blank"><img src="https://i.ibb.co/kxF2BwJ/th-2861658510.png" alt="eWPT" height="40" width="50" /></a>
 </div>
 <div align="left">
 
